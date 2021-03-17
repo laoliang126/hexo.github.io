@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 静态博客在线编辑器
+title: lostdog
 subtitle: '静态博客在线编辑器,演示站点'
 description: '静态博客在线编辑器,支持hexo,hugo,Jekyll等主流生成器,在线写文章'
 keywords:
